@@ -1,0 +1,13 @@
+<p>This course will be taught entirely within the first five weeks of the semester. The course consists of (at least) eight lectures but students will also need to read research papers independently of these lectures. 
+
+<h4>Lecture overview:</h4>
+<p><ol>
+<li>Introduction to Information Extraction</li>
+<li>Information Extraction Evaluation</li>
+<li>Supervised Learning of Extraction Patterns</li>
+<li>Unsupervised Learning of Extraction Patterns</li>
+<li>Integrating Semantic Information</li>
+<li>Pattern Representations</li>
+<li>More Experiments on Pattern Representations</li>
+<li>Event Descriptions in Text</li>
+</ol>

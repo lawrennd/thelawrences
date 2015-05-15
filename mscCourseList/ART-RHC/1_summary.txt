@@ -1,0 +1,197 @@
+<span style="font-weight: bold;"></span></big>Lectures take
+place in the Hicks Building Lecture Theatre A, from 12.10 until 13.00
+on Tuesdays. The proposed lecture schedule is as follows, but may be
+subject to change.<br>
+<br>
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold;">Week<br>
+      </td>
+      <td style="vertical-align: top; font-weight: bold;">Date<br>
+
+      </td>
+      <td style="vertical-align: top; font-weight: bold;">Title<br>
+      </td>
+      <td style="vertical-align: top; font-weight: bold;">Lecture notes
+and other resources<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">1<br>
+
+      </td>
+      <td style="vertical-align: top;">27 Sept<br>
+      </td>
+      <td style="vertical-align: top;">Introduction to Modelling and
+Simulation<br>
+      </td>
+      <td style="vertical-align: top;">Lecture notes (<a
+ href="http://www.dcs.shef.ac.uk/~richard/campus_only/CompBiolART/Lecture1_Introduction.pdf">pdf</a>)<br>
+
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">2<br>
+      </td>
+      <td style="vertical-align: top;">4 Oct<br>
+      </td>
+      <td style="vertical-align: top;">Post-Genomic Issues in the
+Biosciences<br>
+
+      </td>
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">3<br>
+      </td>
+      <td style="vertical-align: top;">11 October<br>
+
+      </td>
+      <td style="vertical-align: top;">Systems Modelling in the
+Biosciences<br>
+      </td>
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">4<br>
+
+      </td>
+      <td style="vertical-align: top;">18 October<br>
+      </td>
+      <td style="vertical-align: top;">Discrete Models<br>
+      </td>
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">5<br>
+      </td>
+      <td style="vertical-align: top;">25 October<br>
+      </td>
+      <td style="vertical-align: top;">Continuous models<br>
+      </td>
+
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">6<br>
+      </td>
+      <td style="vertical-align: top;">1 November<br>
+      </td>
+
+      <td style="vertical-align: top;"><span
+ style="color: rgb(255, 0, 0);">Reading Week - no lecture</span><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">7<br>
+      </td>
+
+      <td style="vertical-align: top;">8 November<br>
+      </td>
+      <td style="vertical-align: top;">High Performance and Grid
+Computing<br>
+      </td>
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+    </tr>
+    <tr>
+
+      <td style="vertical-align: top;">8<br>
+      </td>
+      <td style="vertical-align: top;">15 November<br>
+      </td>
+      <td style="vertical-align: top;">Case Study - Epithelial Cells
+and Tissue<br>
+      </td>
+      <td style="vertical-align: top;">Lecture notes (pdf) </td>
+
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">9<br>
+      </td>
+      <td style="vertical-align: top;">22 November<br>
+      </td>
+      <td style="vertical-align: top;">Case Study - Structure and
+Function of the Heart<br>
+
+      </td>
+      <td style="vertical-align: top;">Dr Richard Clayton<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">10<br>
+      </td>
+      <td style="vertical-align: top;">29 November<br>
+
+      </td>
+      <td style="vertical-align: top;">Case Study - Signal Transduction
+Pathways<br>
+      </td>
+      <td style="vertical-align: top;"><a
+ href="http://www.dcs.shef.ac.uk/%7Enmonk/">Dr Nick Monk</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">11<br>
+
+      </td>
+      <td style="vertical-align: top;">6 December<br>
+      </td>
+      <td style="vertical-align: top;">Case Study - Social Insects<br>
+      </td>
+      <td style="vertical-align: top;">Dr Duncan Jackson<br>
+      </td>
+
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">12<br>
+      </td>
+      <td style="vertical-align: top;">13 December<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<b><font size="+1"><br>
+Assessment</font></b><span style="font-weight: bold;"><br>
+</span>The assignment<span style="font-weight: bold;"> </span>will be
+an extended essay, and will be released in week 8. The marking criteria
+will accompany the
+assignment handout. The deadline for handin will be <span
+ style="font-weight: bold;">5pm on Wednesday 16 January 2006</span>.<br>
+
+<p>The following web sites have some information on how to write a good
+essay - I suggest you have a look at them.<br>
+<a href="http://www.qub.ac.uk/bb/jbpage/honours/tutees.htm">The online
+writing lab at Purdue University<br>
+Some thoughts on effective scientific writing</a><br>
+<a
+ href="http://lis.newport.ac.uk/studyzone/publications/planning_a_good_essay.pdf">Planning
+a good essay</a><br>
+</p>
+<p><big><span style="font-weight: bold;">Recommended Reading</span></big><br>
+There is no set
+text for this module. A suggested reading list based
+on journal articles and sections from selected textbooks is available <a
+ href="http://www.dcs.shef.ac.uk/%7Erichard/campus_only/CompBiolART/ART_reading_list.html">here</a></p>
+<span style="font-family: times new roman,times,serif;"><a
+ href="http://www.dcs.shef.ac.uk/%7Erichard/campus_only/CompBiolART/ART_reading_list.html"></a></span>
+<div class="O" v:shape="_x0000_s2050">
+<div style=""><span style="display: none;"></span></div>
+
+</div>
+<hr style="width: 100%; height: 2px;">
+<p><i>Last updated 26 September 2005 by Richard Clayton</i>.<br>
+&nbsp;
+</p>
+</body>
+</html>

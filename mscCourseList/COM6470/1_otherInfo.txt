@@ -1,0 +1,1 @@
+<p>The <b>Java Development Kit</b> software package is needed to run the sample Java programs which come with the lecture notes. This software can be downloaded at <a href="http://java.sun.com/j2se/1.4.2/download-netbeans.html"> http://java.sun.com/j2se/1.4.2/download-netbeans.html </a> 

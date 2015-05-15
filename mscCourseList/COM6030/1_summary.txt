@@ -1,0 +1,3 @@
+
+
+The first week will cover introductory material to Software Engineering and in the next four weeks problems regarding software analysis principles, methods and notations (emphasis on UML) will be presented. 

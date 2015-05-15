@@ -1,0 +1,7 @@
+<ul>
+<li>Week 1: data representation</li>
+<li>Week 2: computer architecture</li>
+<li>Week 3: computer architecture</li>
+<li>Week 4: network architecture</li>
+<li>Week 5: netwrk architecture</li>
+</ul>

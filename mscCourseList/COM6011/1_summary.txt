@@ -1,0 +1,13 @@
+<p> The MAXI project is a team project where the students work on building software fore a client.
+
+<p> The plan for the first few weeks are as follows.
+
+<ul>
+<li>There is no lecture in the first week.</li>
+<li>In Week 2 there will be an introductory sessoin on the MAXI project (see the materail below for details).</li>
+<li>The following weeks up until week 5 will be taken with the feasibility studies.</li>
+</ul>
+
+<p>For more details see the diary document below.
+
+<p>Late arriving students will be integrated into existing teams on their arrival. In the meantime please study the material below.

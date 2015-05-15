@@ -1,0 +1,30 @@
+<UL>
+<LI>Lecture 1 &nbsp  -- Introduction to Machine Learning
+
+<LI>Lecture 2 &nbsp  -- Concept Learning
+
+
+<LI>Lecture 3 &nbsp -- Version Spaces + Candidate Elimination
+
+
+<LI>Lecture 4 &nbsp  -- Decision Tree Learning 
+
+<LI>Lecture 5 &nbsp  -- More on Decision Trees
+
+
+<LI>Lecture 6 &nbsp  -- Evaluating Hypotheses
+
+
+<LI>Lecture 7 &nbsp  -- More on Evaluating Hypotheses
+
+
+
+<LI>Lecture 8 &nbsp  -- Introduction to Bayesian Learning
+
+
+<LI>Lecture 9 &nbsp  -- Bayesian Classifiers
+
+
+<LI>Lecture 10 -- Bayesian Belief Networks
+
+</UL>

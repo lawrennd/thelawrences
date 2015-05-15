@@ -1,0 +1,1 @@
+By the sixth week of study, students should be familiar with the concept of <b><i>classes</b></i> and <b><i>objects</b></i> in the context of object-oriented programming. It is also expected that students should be able to write programs with multiple classes to demonstrate this competence.

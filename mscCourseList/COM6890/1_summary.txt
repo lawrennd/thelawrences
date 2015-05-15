@@ -1,0 +1,18 @@
+<p>The first five lectures will cover the CCS langauge as developed by R. Milner and others. This will serve as a foundation for a discussion of the PI-Calculus in the following 5 lectures given by Dr. Kirill Bogdanov. </p>
+
+<p>Please note that this course is not about the physical construction or architecture of networks or mobile communications systems - we don't ask &quot;how can we build mobile systems?&quot;, but &quot;what are their properties?&quot;. This material is close to the cutting edge of Theoretical Computer Science, and students completing this course will have a good grounding in the mathematical concepts and techniques underpinning most areas of the modern discipline. As this suggests, the course is highly theoretical; but at the same time it is highly practical. We consider realistic systems, find out why standard approaches to specifying their properties are doomed to failure, and develop the basic techniques needed to describe and delineate behaviour in the complex worlds of communicating and mobile systems.</p>
+
+ <h2>   Part 1: FSMs, CT-Thesis, X-machines; Milner's Job Shop</h2>
+    <p>A reminder of familiar models. A less familiar (but easier) model - the X-machine. A first attempt at writing CCS equations to describe a complex system.</p>
+     
+   <h2>  Part 2: Flow and transition diagrams, simulation, bisimulation</h2>
+   <p> Getting the hard stuff out of the way: process evolution rules, and using them to draw transition diagrams. What it means for one process to simulate another.</p>
+     
+    <h2> Part 3: More bisimulation, building buffers</h2>
+  <p>  This lecture was partly taken up by points raised in the last tutorial (see the Part 3 Tutorial page). The remainder of the lecture covered strong simulation and bismulation in more detail - this material is covered in the extra notes on the subject available by clicking here.</p>
+     
+    <h2> Part 4: Petri nets, Mazurkiewicz traces</h2>
+   <p> We've been covering the course material much faster than expected. This gave us a chance to examine some of the alternatives to CCS and the pi-calculus. We did a quick lightning tour of Petri Nets, Mazurkiewicz Traces (including how to define convergence relative to a 'metric' on traces), and CSP.</p>
+     
+   <h2>  Part 5: Basic pi-calculus</h2>
+  <p>  Next week will be a 'Reading Week', and I've asked you to include Part 1 of the 1989 pi-calculus tutorials among the things you read. Since you're not used to reading advanced theory papers, this week's lecture covered enough of the details of pi-calculus, and enough general concepts from 'Theory' to let you (just about) understand what the tutorial is saying. </p>

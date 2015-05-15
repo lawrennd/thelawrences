@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName linux1309.easyspace.com
+AuthUserFile /usr/local/customer/virtualfp//www.thelawrences.net/_vti_pvt/service.pwd
+AuthGroupFile /usr/local/customer/virtualfp//www.thelawrences.net/_vti_pvt/service.grp

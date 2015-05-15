@@ -1,0 +1,7 @@
+<ul>
+<li>Lecture #1 - Introduction</li>
+<li>Lecture #2 - Speaking and listening</li>
+<li>Lecture #3 - The nature of speech</li>
+<li>Lecture #4 - Sounds & symbols</li>
+<li>Lecture #5 – Articulatory Phonetics</li>
+</ul>

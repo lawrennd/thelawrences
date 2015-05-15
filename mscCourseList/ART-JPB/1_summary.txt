@@ -1,0 +1,32 @@
+<b>Introduction</b>
+<ul>
+<li> Motivation
+<li> Course Overview
+</ul>
+<b>Audio-Visual Speech Perception</b>    
+<ul>
+<li> Speech production
+<li> `Speechreading' cues; visemes versus phonemes
+<li> The use of `point light' studies
+<li> The McGurk Effect and the Ventriloquist Illusion
+</ul>
+ <b>Processing images with MATLAB</b>
+<ul>
+<li> Digital representations of images
+<li> An introduction to MATLAB
+<li> Basic image processing using MATLAB
+</ul>
+<b>Face Detection (part 1)</b>
+<ul>
+<li> The face detection problem
+<li> Neural network-based face detection
+<li> Chromaticity-based face detection
+</ul>
+<b>Face Detection (part 2)</b>    
+ <ul>
+<li> Some notes on classification
+<li> Eigenfaces
+<li> Fisherfaces
+<li> Rotation and scaling invariance
+</ul>
+

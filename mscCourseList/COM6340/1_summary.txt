@@ -1,0 +1,21 @@
+<h3>Lectures</h3>
+<ul>
+<li>lecture 1: Introduction</li>
+<li>lecture 2: Transformations</li>
+<li>lecture 3: Polygon meshes</li>
+<li>lecture 4: The graphics pipeline</li>
+</ul>
+
+<p>The first four lectures (weeks 1 and 2) are in week1and2Lectures.zip
+Subsequent lecture material will be posted as it becomes available. Weeks 1 to 5 will essentially cover the material in chapters 1 to 7 and in chapter 9 of the module text book: Watt, A. &quot;3D Computer Graphics&quot; (3rd edition), Addison-Wesley, 2000.
+
+<h3>Lab classes</h3>
+<p>Before beginning the lab classes, you need to install JOGL - see settingsForJOGL.html in week2to4LabClasses.zip for details. (I assume Java has already been installed on the system you are using.)
+
+<ul>
+<li>No lab class in week 1.</li>
+<li>Week 2: Transformations</li>
+<li>Week 3: Triangles and data structures</li>
+<li>Week 3: Lighting in OpenGL</li>
+</ul>
+<p>The material for the lab classes in weeks 1 to 4 is in week2to4LabClasses.zip below.

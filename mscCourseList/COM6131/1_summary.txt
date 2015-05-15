@@ -1,0 +1,71 @@
+<h3>Calendar</h3>
+<table>
+<tr><td>
+<h3>Week 1</h3></td>
+</tr>
+<tr>
+<td>Monday 26/9/2005</td>
+<td><b>Lectures 1 and 2</b></td>
+<td>Probability Review and Poisson Processes</td>
+<td>See course notes for details. Tutorial Sheet 1 is based on this and the following material.</td>
+</tr>
+<tr>
+
+<td>Tuesday 27/9/2005</td>
+<td><b>Lecture 3</b></td>
+<td>Birth Death Processes</td>
+<td>See course notes for details.</td>
+</tr>
+<tr><td><h3>Week 2</h3></td></tr>
+<tr>
+<td>Monday 3/10/2005</td>
+<td><b>Lectures 4 and 5</b></td>
+<td><i>M/M/1</i> queues and Little's Formula</td>
+<td>See course notes for details.</td>
+</tr>
+<tr>
+<td>Tuesday 4/10/2005</td>
+<td><b>Tutorial 1</b></td>
+<td>Probability and Poisson Processes</td>
+<td>Review of Tutorial 1, please mail the course teaching assistant, Nat King (nat@dcs.shef.ac.uk) with your answers for checking.</td>
+</tr>
+<tr><td><h3>Week 3</h3></td></tr>
+<tr>
+<td>Monday 10/10/2005</td>
+<td><b>Lab Class 1</b></td>
+<td>Discrete Simulation of the <i>M/M/1</i></td>
+<td>The lab class instructions are given below. There are also some hints about what to do in the course notes. The simulation is run in MATLAB. But the experiments could also be done in Octave if you don't have access to MATLAB.</td>
+</tr>
+<tr>
+<td>Tuesday 11/10/2005</td>
+<td><b>Lecture 6</b></td>
+<td>Other Markov Queues</td>
+<td>See course notes for details.</td>
+</tr>
+<tr><td><h3>Week 4</h3></td></tr>
+<tr>
+<td>Monday 17/10/2005</td>
+<td><b>Lectures 7 and 8</b></td>
+<td>Erlang Delay and Erlang Loss</td>
+<td>See course notes for details.</td>
+</tr>
+<tr>
+<td>Tuesday 18/10/2005</td>
+<td><b>Lab Review 1</b></td>
+<td>Review of Lab Class 1</td>
+<td>Please email any questions on the lab class to Nathaniel King (nat@dcs.shef.ac.uk).</td>
+</tr>
+<tr><td><h3>Week 5</h3></td></tr>
+<tr>
+<td>Monday 24/10/2005</td>
+<td><b>Lectures 9 and 10</b></td>
+<td>Erlang Loss and Markov Queues Review</td>
+<td>See course notes for details.</td>
+</tr>
+<tr>
+<td>Tuesday 25/10/2005</td>
+<td><b>Tutorial 2</b></td>
+<td><i>M/M/1</i> and Little's Formula</td>
+<td>Review of Tutorial 2, please mail the course teaching assistant, Nathaniel King (nat@dcs.shef.ac.uk) with your answers for checking.</td>
+</tr>
+</table>

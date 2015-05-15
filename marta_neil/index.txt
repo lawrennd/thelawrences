@@ -1,0 +1,49 @@
+<head>
+<title>Neil Lawrence and Marta Milo</title>
+</head>
+
+<body>
+<div class="section">
+<h1>Marta and Neil</h1>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+<p>
+
+<nobr><a href="/~marta/index.html">Marta's Research</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=nicolaJohnsWedding">Nicola and John's Wedding</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=fred">Fred Lawrence</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=ralfJeanetteVisit">Ralf and Jeanette Visit</a></nobr><br><nobr><a href="/~neil/index.html">Neil's Research</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=warwick">Warwick Castle Photos</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=antonioBeatriceVisit">Bakewell with Antonio and Beatrice</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=house">Glenlea Photos</a></nobr><br><nobr><a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=englishBlessing">English Blessing Photos</a></nobr><br><nobr><a href="/search.html">Search Site</a></nobr>
+</p>
+
+</td><td valign="top" width="24"></td><td valign="top">
+
+<h2>Marta and Neil's Homepage</h2>
+
+<p>On January 1st 2007 Neil starts a new job at the University of Manchester's
+School of Computer Science.
+
+<p>On October 16th 2006 Paolo Garth Lawrence was born.
+
+<p>There are photos of Frederick's first birthday
+<a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=fredsFirstBirthday">here</a>.</p>
+<p>On January 7th 2003 <a href="/~frederick/index.html">Frederick Antonio Lawrence</a> 
+was born.</p>
+
+<p>On December 
+11th 2001 Neil and Marta moved into their new house, see photos
+<a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=house">here</a>.</p>
+<p>Marta works at the University of Sheffield's Biomedical Science Deptartment.
+There are some photos of a workshop held in Sheffield on Uncertainty in 
+Geometric Computation <a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=geometric">here</a>.
+Up until July 2001 Neil was working for <a href="http://www.research.microsoft.com">Microsoft
+Research</a> in Cambridge.
+<a href="/~neil/cgi-bin/gallery/gallery.cgi?dir=cambridge">These photos</a> come from his year there that year. </p>
+<p>Marta and Neil met at a workshop 
+in the Newton
+Institute, Cambridge while doing PhD's at the <a href="http://www.cl.cam.ac.uk">Computer
+Lab</a> and at the <a href="http://www.unina.it/">University of Naples</a>.</p>
+<p>One of Marta's hobbies is <a href="http://www.geocities.com/stlista">making
+fun of her mother</a> (in collaboration with her <a href="http://www.geocities.com/marcomilo2000/">brother</a>).
+La Famiglia Milo (Marta's family) live on the slopes of Vesuvius in Naples. <a href="http://www.earthscape.org/t1/beb01/">This</a>
+site has a photo of their town, San Sebastiano, being destroyed in the 1944
+eruption. <p>Recently Neil typed up his <a href="/nona_fred/index.html">Granddad</a>'s
+<a href="/granddad/granddads_book.pdf">book</a> about the Second World War.<P> 
+</table>
+</div>
+</body>

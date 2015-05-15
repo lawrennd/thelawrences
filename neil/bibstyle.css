@@ -1,0 +1,52 @@
+BODY
+{
+    	COLOR: 		#000000;
+	BACKGROUND:	#ffffff;
+    	FONT-FAMILY: 	Verdana, "Arial Black", helvetica, serif;
+    	FONT-SIZE: 	11pt;
+    	FONT-WEIGHT: 	normal;
+    	FONT-STYLE: 	normal;
+}
+H1
+{	COLOR: 		#000000;
+    	FONT-FAMILY: 	Verdana, "Arial Black", helvetica, serif ;
+    	FONT-SIZE: 	18pt;
+    	FONT-WEIGHT: 	bold;
+}
+P.CITATION
+{
+	FONT-WEIGHT:	normal;
+}
+P.CITATION-ABS
+{
+	BACKGROUND-COLOR:	#c0f0c0;
+	PADDING:		5pt;
+}
+.BIB-EMPH
+{
+    	FONT-STYLE: 	italic;
+}
+.BIB-TITLE
+{
+	FONT-WEIGHT:	bold;
+}
+.BIB-JOURNAL
+{
+}
+.BIB-VOLUME
+{
+	FONT-WEIGHT:	bold;
+}
+P.BIB-ABS-TITLE
+{
+	FONT-WEIGHT:	bold;
+	MARGIN-LEFT:	5%;
+}
+P.BIB-ABS-TEXT
+{
+	FONT-STYLE:	italic;
+	COLOR:		#000000;
+	FONT-SIZE:	11pt;
+	MARGIN-LEFT:	5%;
+	MARGIN-RIGHT:	5%;
+}

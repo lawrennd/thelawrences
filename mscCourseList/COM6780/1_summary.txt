@@ -1,0 +1,5 @@
+<p>The first three lectures involve going through the material on the department's wiki site. To find this see the taught component section <a href="https://www.dcs.shef.ac.uk/wiki/bin/view/Guide/ResearchComputing">here</a>.
+
+<p>Selection of projects is done in Week 3. The list of projects can be found <a href="http://ext.dcs.shef.ac.uk/~u0015/cgi-bin/showDarwinProjects.cgi">here</a>.
+
+<p>In the fourth lecture there is a presentation on technical writing and presentation of technical material. 

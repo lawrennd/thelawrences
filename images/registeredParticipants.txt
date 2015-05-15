@@ -1,0 +1,65 @@
+Registration number	IP address	title	firstname	surname	institution	department	address1	address2	city	region	postcode	country	email	vegetarian 	pascalid	pascalreg remaining	workshop name	date and time	
+31	143.167.9.36	Mr	Andy	Moore	University of Sheffield	Computer Science	211 Portobello Street		Sheffield		S1 4DP	England	andrewm@dcs.shef.ac.uk	unknown	am2	38	gpip	28 March 2006 at 16:12:26	
+36	143.167.10.242	Mr	Nathaniel	King	University of Sheffield	Computer Science	Regent Court	211 Portobello Street	Sheffield	South Yorkshire	S1 4DP	United Kingdom	n.king@dcs.shef.ac.uk	unknown	nk3	36	gpip	28 March 2006 at 17:10:41	
+37	143.167.9.25	Mr	Jonathan	Laidler	University of Sheffield	Computer Science	Regent Court	211 Portobello Street	Sheffield	South Yorkshire	S1 4DP	UK	j.laidler@dcs.shef.ac.uk	No	jl5	37	gpip	29 March 2006 at 13:16:42	
+38	143.167.8.225	Dr	Neil	Lawrence	University of Sheffield	Department of Computer Science	Regent Court	211 Portobello Street	Sheffield	South Yorkshire	S1 4DP	U.K.	neil@dcs.shef.ac.uk	No	nl	36	gpip	29 March 2006 at 13:30:41	
+39	143.167.9.187	Dr	Guido	Sanguinetti	University of Sheffield	Computer Science	211 Portobello Street		Sheffield			UK	guido@dcs.shef.ac.uk	No	gs2	35	gpip	29 March 2006 at 16:40:47	
+40	84.183.162.129	Dr	Joaquin	Quiñonero-Candela	TU Berlin	Software Engineering Group	Sekr. FR 5-6	Franklinstr. 28/29	Berlin		10587	Germany	joaquin@cs.tu-berlin.de	No	jqc	34	gpip	29 March 2006 at 21:44:55	Organiser
+41	134.151.158.59	Mr	Dharmesh	Maniyar	"NCRG, Aston University"	Information Engineering	Aston Triangle		Birmingham	West Midlands	B4 7EJ	UK	maniyard@aston.ac.uk	No	dm4	33	gpip	11 April 2006 at 17:53:16	
+42	147.188.192.41	Mr	Ping	Sun	University of Birmingham	School of Computer Science	"Rm 218, School of Computer Science"	University of Birmingham	Birmingham	West Midlands	B15 2TT	UK	p.sun@cs.bham.ac.uk	unknown	none	33	gpip	12 April 2006 at 15:43:15	
+43	194.199.21.134	Dr	Bill	Triggs	INRIA 	LEAR	655 avenue de l'Europe		Montbonnot		38330	France	Bill.Triggs@inrialpes.fr	unknown	wt	32	gpip	19 April 2006 at 14:22:36	
+44	152.78.191.109	Dr	Cedric	Archambeau	University of Southampton	Electronics and Computer Science	University of Southampton (ISIS group)	Building 1	Southampton	Hampshire	SO17 1BJ	United Kingdom	ca@ecs.soton.ac.uk	unknown	ca2	31	gpip	21 April 2006 at 21:28:10	
+45	193.35.220.85	Dr	Roger	Sewell	Cambridge Consultants	Products and Systems Business Unit	Science Park	Milton Road	Cambridge	Cambridgeshire	CB4 0DW	UK	louise.wickenden@cambridgeconsultants.com	No	none	31	gpip	25 April 2006 at 12:40:27	
+46	129.27.159.84	Mr	Michael	Pfeiffer	TU Graz	Institute for Theoretical Computer Science	Inffeldgasse 16b		Graz		A-8010	Austria	pfeiffer@igi.tugraz.at	Yes	mp3	30	gpip	27 April 2006 at 16:29:53	
+47	209.159.170.122	Dr	Uche	Iromakwe	Osuala Partners Nig Ltd	Research	"19 Abeokuta Street,"	Anifowoshe	Ikeja	Lagos	10001	Nigeria	osuala_partner@yahoo.co.uk	unknown	none	30	gpip	30 April 2006 at 17:48:12	
+48	66.18.202.253	Mr	Daniel	Lizotte	University of Alberta	Computing Science	221 Athabasca Hall	University of Alberta	Edmonton	Alberta	T6G 2E8	Canada	dlizotte@cs.ualberta.ca	unknown	none	30	gpip	1 May 2006 at 17:49:58	
+49	80.109.202.193	Mr	Gerhard	Neumann	Institute for Theoretical Computer Science	TU-Graz	Flurweg 6		Deutschlandsberg	Steiermark	8530	Austria	gerhard@igi.tu-graz.ac.at	unknown	gn	29	gpip	1 May 2006 at 21:31:08	
+50	62.254.128.4	Prof.	Philip	Torr	Oxford Brookes University	Computing	"Department of Computing,"		"Oxford,"	Oxon	OX33 1HX.	UK	philiptorr@brookes.ac.uk	No	pt	28	gpip	3 May 2006 at 23:51:57	
+51	161.73.146.57	Mr	Pushmeet	Kohli	Oxford Brookes University	Department of Computing	Wheatley Campus		Oxford	Oxon	OX33 1HX	UK	pushmeet.kohli@brookes.ac.uk	Yes	pk1	27	gpip	4 May 2006 at 12:59:06	
+52	161.73.146.176	Mr	Carl Henrik	Ek	Oxford Brookes University	Computing	Wheatley Campus		Oxford	Oxon	OX33 1HX	United Kingdom	cek@brookes.ac.uk	Yes	ch1	26	gpip	4 May 2006 at 13:35:37	
+53	161.73.146.74	Mr	Chris	Russell	Oxford Brookes University	Department of computing	Turing Building	Wheatley	Oxford		Ox33 1Hx	UK	chris.russell@brookes.ac.uk	No	NotYetKnown	25	gpip	5 May 2006 at 14:19:09	
+54	161.73.146.73	Mr	Karteek	Alahari	Oxford Brookes University	Department of Computing	Wheatley		Oxford	Oxfordshire	OX33 1HX	UK	karteek.alahari@brookes.ac.uk	No	NotYetKnown	24	gpip	5 May 2006 at 14:19:09	
+55	212.49.200.37	Dr	Andrew	Stoddart	Oxford Metrics Group plc	Research & Development	14 Minns Estate	West Way	Oxford	Oxfordshire	OX2 0JB	U.K.	andrew.stoddart@omg3d.com	No	none	24	gpip	5 May 2006 at 16:53:39	
+56	128.100.4.23	Dr	Aaron	Hertzmann	University of Toronto	Computer Science Dept	"10 King's College Rd, Rm 3302"		Toronto	ON	M5S3G4	Canada	hertzman@dgp.toronto.edu	No	none	24	gpip	5 May 2006 at 18:19:35	Speaker
+57	84.51.161.66	Mr	Lawrence	Austen	OILspace	Financial Engineering	44 Grove Hall Court	Hall Road	London		NW8 9NY	United Kingdom	LawrenceAusten@yahoo.com	No	none	24	gpip	6 May 2006 at 13:34:01	
+58	128.178.78.47	Ms	Raquel	Urtasun	EPFL	Computer Vision Laboratory	EPFL-I&C-CVLAB 	BC 307	Lausanne 	Vaud	CH-1015	Switzerland	raquel.urtasun@epfl.ch	No	none	24	gpip	8 May 2006 at 11:40:29	Speaker
+59	143.167.9.40	Dr	Huma	Lodhi	University of Sheffield	Computer Science	Regent Court	211 Portobello Street	Sheffield		S1 4DP	UK	huma@dcs.shef.ac.uk	Yes	hl	23	gpip	8 May 2006 at 13:57:18	
+60	130.209.241.223	Dr	Roderick	Murray-Smith	Glasgow University	Computing Science	17 Lilybank gardens		Glasgow	Scotland	G14 9HS	UK	rod@dcs.gla.ac.uk	No	rm1	22	gpip	9 May 2006 at 10:31:27	
+61	192.124.26.250	Mr	Matthias	Franz	Max-Planck-Institute for Biological Cybernetics	Empirical Inference	Spemannstr. 38		Tuebingen		D-72076	Germany	mof@tuebingen.mpg.de	No	none	21	gpip	10 May 2006 at 13:09:33	
+62	128.208.7.98	Mr	Brian	Ferris	University of Washington	Computer Science and Engineering	Box 352350		Seattle	Washington	98195-2350	United States	bdferris@cs.washington.edu	No	none	21	gpip	10 May 2006 at 17:56:33	Speaker
+63	128.40.213.241	Mr	Edward	Snelson	UCL	Gatsby Computational Neuroscience Unit	Alexandra House	17 Queen Square	London		WC1N 3AR	UK	snelson@gatsby.ucl.ac.uk	No	es1	20	gpip	11 May 2006 at 12:16:44	Speaker
+64	129.215.155.37	Prof.	Chris	Williams	University of Edinburgh	School of Infformatics	5 Forrest Hill		Edinburgh		EH1 2QL	UK	ckiw@inf.ed.ac.uk	Yes	ckiw	19	gpip	13 May 2006 at 16:09:45	Speaker
+65	192.124.26.250	Dr	Matthias	Franz	Max-Planck-Institute for Biological Cybernetics	Empirical Inference	Spemannstr. 38		Tuebingen		D-72076	Germany	mof@tuebingen.mpg.de	No	mf	18	gpip	15 May 2006 at 14:06:51	
+66	129.128.159.36	Dr	Yaakov	Engel	University of Alberta	Dept. of Computing Science	2-21 Athabasca Hall	University of Alberta	Edmonton	Alberta	T6G 0N9	Canada	yaki@cs.ualberta.ca	No	none	18	gpip	16 May 2006 at 00:22:53	
+67	134.58.253.114	Mr	Fabian	Guiza	K.U.Leuven	Computer Science	"Afd. Informatica, Celestijnenlaan 200A"		Heverlee - Leuven		3001	Belgium	Fabian.Guiza@cs.kuleuven.be	No	none	18	gpip	16 May 2006 at 15:46:26	
+68	193.130.179.219	Mr	Tim	Field	KBC Alternative Investment Management	Research	111 Old Broad Street		London		EC2N 1AP	United Kingdom	tim.field@kbcaim.com	No	none	18	gpip	17 May 2006 at 13:45:21	
+69	129.78.208.4	Ms	Lee Ling (Sharon)	Ong	The University of Sydney	Australian Centre for Field Robotics	"Rose Street Building, J04"		The University of Sydney	NSW	2006	Australia	s.ong@acfr.usyd.edu.au	No	none	18	gpip	19 May 2006 at 04:50:28	
+70	152.78.61.71	Dr	Alexander	Dolia	University of Southampton	School of Electronics and Computer Science	Building 1	University of Southampton	Southampton		SO17 BJ1	UK	ad@ecs.soton.ac.uk	No	ad1	17	gpip	19 May 2006 at 14:58:38	
+71	130.226.133.54	Dr	Kim	Pedersen	IT University of Copenhagen	The Image Group	Rued Langgaards Vej 7		Copenhagen 		DK-2300 Copenhagen S	Denmark	kimstp@itu.dk	No	none	17	gpip	22 May 2006 at 14:23:35	
+72	147.188.192.41	Mr	Ping	SUN	University of Birmingham	School of Computer Science	"Rm 218, School of Computer Science, "	University of Birmingham	Birmingham	West Midlands	N15 2TT	UK	p.sun@cs.bham.ac.uk	No	none	17	gpip	22 May 2006 at 14:25:57	
+73	193.2.4.56	Mr	DAVOR	ORLIC	Jozef Stefan Institute	Center for knowledge transfer	Jamova 39		Ljubljana	Slovenia	1000	Slovenia	davor.orlic@ijs.si	No	mj1	16	gpip	23 May 2006 at 08:52:26	Recorder
+74	146.191.228.3	Prof.	colin	fyfe	university of paisley	computing	high street		PAISLEY			Scotland	colin.fyfe@paisley.ac.uk	No	none	16	gpip	23 May 2006 at 14:10:36	
+75	192.84.212.82	Dr	Richard	Newton	"Birkbeck College, University of London"	Crystallography	Malet St.	Bloomsbury	London		WC1E 7HX	UK	r.newton@mail.cryst.bbk.ac.uk	Yes	none	16	gpip	23 May 2006 at 17:07:39	
+76	131.111.48.194	Mr	Ryan	Adams	University of Cambridge	Cavendish Laboratory	Madingley Road		Cambridge		CB3 0HE	UK	rpa23@cam.ac.uk	No	none	16	gpip	24 May 2006 at 16:15:15	
+77	131.111.48.250	Mr	Piotr	Zielinski	University of Cambridge	Cavendish Laboratoryy	J J Thomson Avenue		Cambridge		CB3 0HE	UK	piotr.zielinski@cl.cam.ac.uk	No	none	16	gpip	24 May 2006 at 16:38:11	
+78	131.111.48.119	Mr	Oliver	Stegle	University of Cambridge	Cavendish Laboratory	Madingley Road		Casmbridge		CB3 0HE	UK	os252@cam.ac.uk	No	none	16	gpip	24 May 2006 at 16:40:39	
+79	149.157.192.251	Mr	Keith	Neo	National University of Ireland Maynooth	Hamilton Institute	Rye Hall	Rye Hall	Maynooth	Kildare	na	Ireland	rosemary.hunt@nuim.ie	No	none	16	gpip	25 May 2006 at 11:09:39	
+80	192.84.212.7	Mr	John	Reid	Birkbeck	Crystallography	Malet St		London		WC1E 7HX	UK	j.reid@cryst.bbk.ac.uk	No	none	16	gpip	25 May 2006 at 11:11:35	
+81	192.84.212.83	Ms	Yi	Zhang	"Birkbeck, London"	Crystallography	86 Greenford Road	Harrow	London			UK	ezhan01@mail.cryst.bbk.ac.uk	No	none	16	gpip	25 May 2006 at 15:49:10	
+82	192.124.26.250	Dr	Carl Edward	Rasmussen	Max Planck Institute for Biological Cybernetics	Empirical Inference for Machine Learning and Perception	Spemann Strasse 38		Tuebingen	Baden-Wuerttemberg	D-72076	Germany	carl@tuebingen.mpg.de	No	none	16	gpip	26 May 2006 at 11:30:53	Speaker
+83	89.50.36.162	Prof.	Manfred	Opper	TU-Berlin	Computer Science	Franklin Strasse		Berlin			Germany	opperm@cs.tu-berlin.de	No	mo1	15	gpip	26 May 2006 at 11:56:27	
+84	131.111.48.169	Mr	Philip	Cowans	University of Cambridge	Department of Physics	Cavendish Laboratory	19 J. J. Thomson Avenue	Cambridge		CB3 0HE	United Kingdom	pjc51@cam.ac.uk	No	none	15	gpip	26 May 2006 at 12:41:21	
+85	134.93.143.218	Mr	Tobias	Jung	University of Mainz	Department of Computer Science	Staudingerweg 9		Mainz		55099	Germany	tjung@informatik.uni-mainz.de	No	none	15	gpip	26 May 2006 at 13:08:23	
+86	213.199.128.177	Mr	Oliver	Williams	Microsoft Research / University of Cambridge	Machine Learning and Perception	7 J. J. Thompson Ave.		Cambridge		CB3 0FB	UK	olliew@microsoft.com	No	none	15	gpip	26 May 2006 at 14:16:26	
+87	158.143.77.6	Mr	Limin 	Wang	London School of Economics	Department of Statistics	"Houghton Street, "		London		WC2A 2AE	UK	l.wang7@lse.ac.uk	No	none	15	gpip	26 May 2006 at 16:48:51	
+88	213.199.128.177	Mr	Martin	Szummer	Microsoft Research	Machine Learning & Perception group	7 J J Thomson Avenue		Cambridge		CB3 0FB	UK	szummer@microsoft.com	No	none	15	gpip	26 May 2006 at 17:36:29	
+89	82.46.151.8	Mr	Ben	Ingram	Aston University	Neural Computing Research Group	Aston Triangle	Aston Street	Birmingham	West Midlands	B4 7ET	United Kingdom	IngramBR@Aston.ac.uk	No	none	15	gpip	26 May 2006 at 18:02:22	
+90		Prof.	David	MacKay	University of Cambridge	Department of Physics	Cavendish Laboratory	19 J. J. Thomson Avenue	Cambridge		CB3 0HE	United Kingdom	mackay@mrao.cam.ac.uk	Yes	none	15	gpip	Neil	Speaker
+91		Dr	Anton	Schwaighofer	Frauhofer First	IDA Group	Kekulestr. 7		Berlin		12489	Germany	anton.schwaighofer@first.fraunhofer.de	No	NotYetKnown	14	gpip	Neil	Organiser
+92		Mr 	Chris	Penfold	University of Sheffield	Computer Science	211 Portobello Street		Sheffield			UK	cap@dcs.shef.ac.uk	No	NotYetKnown	13	gpip	Neil	
+93	84.239.128.9	Dr	Aki	Vehtari	Helsinki University of Technology	Laboratory of Computational Engineering	P.O. Box 9203		TKK		FI-02105	FINLAND	Aki.Vehtari@tkk.fi	No	none	13	gpip	27 May 2006 at 15:54:35
+94	84.239.128.9	Mr	Jarno	Vanhatalo	Helsinki University of Technology	Laboratory of Computational Engineering	P.O. Box 9203		TKK		FI-02105	FINLAND	Jarno.Vanhatalo@tkk.fi	No	none	13	gpip	27 May 2006 at 15:55:01
+95	62.253.128.11	Prof.	Lorenz	Wernisch	Birkbeck College	Crystallography	Malet Street		London		WC1E 7HX	United Kingdom	l.wernisch@bbk.ac.uk	Yes	none	13	gpip	29 May 2006 at 17:38:48
+96	134.151.32.254	Dr	Dan	Cornford	Aston University	NCRG	Aston Triangle		Birmingham		B4 7ET	UK	d.cornford@aston.ac.uk	No	none	13	gpip	31 May 2006 at 16:04:52
+97	152.78.191.104	Mr	Hauke	Tschach	University of Southampton	Electronics and Computer Science	University of Southampton	Building 1	Southampton		SO17 1BJ	United Kingdom	ht05r@ecs.soton.ac.uk	No	none	13	gpip	6 June 2006 at 17:31:28
+98	60.191.251.9	Prof.	Miller	Miller					Moskow			Hungary	Miller@yahoo.com	No	Miller	12	Miller	27 August 2006 at 16:15:37

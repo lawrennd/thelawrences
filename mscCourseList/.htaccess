@@ -1,0 +1,5 @@
+AuthName 'Sheffield MSc Late Arrival Material'
+AuthUserFile /home2/u0015/.htpasswdmsc
+AuthType Basic
+
+Require valid-user

@@ -1,0 +1,163 @@
+<html>
+<head>
+<title>MSc Module Registration for the Late Student Program</title>
+<script src="./lib/formLib.js"></script>
+<script><!--
+function validateForm ( form ) {
+          requiredSelect = new Array( "module code", "number of uploads");
+          return requireSelects ( form, requiredSelect  ) &&
+                 checkProblems (  );
+}
+    // -->';
+    </script>';
+</head>
+<head>
+<style type="text/css">@import url(http://www.shef.ac.uk/sheffield/road/Classic/article/0/shared/css/general.css); </style>
+<style type="text/css">@import url(http://www.shef.ac.uk/sheffield/road/Classic/article/0/shared/css/homepage.css);</style>
+<style>hr { height: 1px; color: #9C9C9C; width: 100%; }</style>
+</head>
+
+<body> 		<!-- header -->
+		<!-- header -->
+		<div>
+ 		<div id="header">
+
+	        <!-- // page heading start -->
+			<div id="headerTitle"> 
+			<h1 id="pageTitle">The DCS Intranet</h1>
+		</div>
+
+		  <!-- // page heading end -->
+
+ 
+		</div>
+ 		<!-- call browser check script -->
+		<script type="text/javascript" language="JavaScript" src="http://www.shef.ac.uk/sheffield/road/Classic/article/0/shared/js/oldbrowser.js"></script>
+		<!-- global navigation -->
+		<div id="globalNavigation"> 
+ 		<!-- global navigation links -->
+        	<a href="#content"><img src="http://www.shef.ac.uk/sheffield/road/Classic/article/0/shared/images/spacer.gif" alt="skip to content" width="1" height="1" /></a> <img src="http://www.dcs.shef.ac.uk/sheffield/road/Classic/article/0/shared/images/spacer.gif" alt=" " width="1" height="1" />
+
+			<span><a href="http://www.dcs.shef.ac.uk/intranet" accesskey="1" title="Access Key: 1">Home</a> |</span>
+			<span><a href="http://www.dcs.shef.ac.uk/intranet/menu" accesskey="n" title="Access Key: n">Navigate</a> |</span>
+			<span><a href="http://www.dcs.shef.ac.uk/campus/guide" accesskey="g" title="Access Key: g">Network Guide</a> |</span>
+			<span><a href="http://www.shef.ac.uk/dcs">DCS Internet</a> |</span>
+
+			<span><a href="http://www.shef.ac.uk">UOS</a> |</span>
+		
+			<span><a href="mailto:dept@dcs.shef.ac.uk" accesskey="7" title="Access Key: 7">Contact</a> |</span> 
+			<span><a href="http://muse.shef.ac.uk/" accesskey="m" title="Access Key: M">Log into MUSE</a></span>
+  		<!-- // global navigation links -->
+		</div>
+		<!-- breadcrumbs end -->
+ 		<!-- Local Content -->
+		</div>
+	</body>
+<body>
+<h1>MSc Module Registration for the LSP</h1>
+
+<p>As many of you know we have several students delayed with visa problems. We will be using this system to provide details of our modules to these students so that they can register late. 
+
+<p>The idea of this system is for you to provide material that students will be looking at across the <b>first five weeks</b> of the semester. Please be as detailed as you can about what you intend to cover across this time.  
+
+<p>Please count how many documents you need to upload (documents such as course notes, tutorial sheets, past exam papers etc.) and provide them in the second box. If you need more documents than is allowed for in that box contact Neil.
+
+<form method="POST" action="./cgi-bin/registerMScCourse.cgi" onSubmit="return validateForm( this );">
+
+<blockquote>
+<table>
+<tr>
+<td align = "left"><b>Module Code:</b>*</td>
+<td><select name="module code" size="1">
+              <option value="">Choose</option>
+              <option value="ART-RHC">ART-RHC</option>
+              <option value="ART-RMS">ART-RMS</option>
+              <option value="ART-JPB">ART-JPB</option>
+              <option value="COM6011">COM6011</option>
+              <option value="COM6030">COM6030</option>
+              <option value="COM6050">COM6050</option>
+              <option value="COM6062">COM6062</option>
+              <option value="COM6101">COM6101</option>
+              <option value="COM6120">COM6120</option>
+              <option value="COM6131">COM6131</option>
+              <option value="COM6150">COM6150</option>
+              <option value="COM6170">COM6170</option>
+              <option value="COM6340">COM6340</option>
+              <option value="COM6420">COM6420</option>
+              <option value="COM6451">COM6451</option>
+              <option value="COM6470">COM6470</option>
+              <option value="COM6660">COM6660</option>
+              <option value="COM6670">COM6670</option>
+              <option value="COM6780">COM6780</option>
+              <option value="COM6854">COM6854</option>
+              <option value="COM6864">COM6864</option>
+              <option value="COM6880">COM6880</option>
+              <option value="COM6890">COM6890</option>
+              <option value="COM6900">COM6900</option>
+              <option value="COM6920">COM6920</option>
+            </select>
+</td>
+</tr>
+<tr>
+<td align = "left"><b>Number of uploads</b>*</td>
+<td><select name="number of uploads" size="1">
+              <option value="">Choose</option>
+              <option value="0">0</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+            </select>
+</td>
+</tr>
+</table>
+* Indicates required field.
+</blockquote>
+<input type=submit value="Submit Form">
+<input type=reset value="Reset Form">
+<input type="hidden" name="softwareType" value="$toolboxName">
+</form>
+</body>
+
+<!-- footer -->
+
+<body>
+ 		
+ 		<!-- Footer -->
+  		<table id="footer" summary="Copyright information and footer links">
+    		<tr>
+
+	  			<td>&nbsp;&copy; 2005&nbsp;&nbsp;The Department of Computer Science @ UOS</td>
+
+	  			<td class="footerLinks">
+		  			<!-- footer links -->
+		  			<a href="http://www.dcs.shef.ac.uk/intranet" title="Access Key: 1">Homepage</a> | 
+		  			<a href="mailto:webcontent@dcs.shef.ac.uk" accesskey="9" title="Access Key: 9">Feedback</a> | 
+		  			<a href="http://www.shef.ac.uk/privacy/">Privacy</a> | 
+		  			<a href="http://www.shef.ac.uk/foi/"><abbr title="Freedom of Information">FOI</abbr></a> | 
+		  			<a href="http://www.shef.ac.uk/accessibility/" accesskey="0" title="Access Key: 0">Accessibility</a>&nbsp; 
+		  			<!-- // footer links -->
+
+	  			</td>
+    		</tr>
+  		</table>
+  
+		<!-- address -->
+		<address id="address">
+			Regent Court, 211 Portobello Street, Sheffield, S1 4DP
+		</address>
+		<!-- // address -->
+
+<!-- // Footer -->
+
+ 	</body>
+</html>
+
+

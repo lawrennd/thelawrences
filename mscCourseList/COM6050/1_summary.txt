@@ -1,0 +1,82 @@
+<h4>Lecturers: Dr Steve Maddock, Dr Richard Clayton</h4>
+
+<p>
+A timetable is given below. In the references below you will find the lecture slides for the first two lectures and the material for lab classes 1, 2, and 4. 
+</p>
+      <table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;2&quot;>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family:Arial&quot;><strong>Week</strong></span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;><strong>Lab: Thursdays 11.00-13.00 Lewin Lab</strong></span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;><strong>Lectures: Thursdays 16.10-17.00</strong></span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;>
+                    <p><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 1 - 29 September</span></p>
+                </td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;>
+                    <p><span style=&quot;color:#ff0000&quot;><strong>For the first week only, this session will be split into two parts:</strong></span></p>
+                    <p>11.10: Lecture in SG-LT11. <span style=&quot;font-family:Arial&quot;>Introduction to Java, syntax and structures [SCM]</span></p>
+                    <p>12.10: Lab class in lewin lab</p>
+                </td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Objects and Classes in Java [SCM]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;>
+                    <p><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 2 - 6 October</span></p>
+                </td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Loops, selection, files, and classes</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>UML(1) [RHC]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;>
+                    <p><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 3 - 13 October</span></p>
+                </td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;><strong>Assessed Lab 1 (10%)</strong></span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>UML(2) [RHC]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 4 - 20 October</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Classes</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>UML(3) [RHC]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 5 - 27 October</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Classes - factory example</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Inheritance/Polymorphism [RHC]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 6 - 3 November</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><strong><span style=&quot;color:#ff0000&quot;><span style=&quot;font-family:Arial&quot;><em>Reading week</em></span></span></strong></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><strong><span style=&quot;color:#ff0000&quot;><span style=&quot;font-family:Arial&quot;><em>Reading week</em></span></span></strong></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 7 - 10 November</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;><strong>Multiple Choice Test (20%)</strong></span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Collections [SCM]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 8 -17 November</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Collections</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>GUI [SCM]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 9 - 24 November</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;><strong>Assessed Lab 2 (10%)</strong></span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Graphics [SCM]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 10 - 1 December</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>GUI</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Exceptions [RHC]</span></td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 11 - 8 December</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;><span style=&quot;font-family:Arial&quot;>Graphics and recursion</span></td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;> </td>
+            </tr>
+            <tr>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;10%&quot;><span style=&quot;font-family: Arial; font-size: 12px&quot;>Week 12 - 15 December</span></td>
+                <td height=&quot;12&quot; bgcolor=&quot;#ffffff&quot; width=&quot;25%&quot;> </td>
+                <td height=&quot;12&quot; width=&quot;25%&quot;> </td>
+            </tr>
+        </table>

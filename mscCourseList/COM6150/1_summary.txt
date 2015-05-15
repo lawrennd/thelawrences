@@ -1,0 +1,55 @@
+<table>
+<tr>
+<td width=100> <b>Lecturers
+<td width=400> Dr Mark Hepple
+<td width=400> Dr Mark Stevenson
+</tr>
+
+<tr>
+<td> <b>Office hours <td> Email requests for appointment
+<td> Email requests for appointment
+</tr>
+
+<tr>
+<td> <b>Email <td> 
+<a href=&quot;mailto:M.Hepple@dcs.shef.ac.uk&quot;>M.Hepple@dcs.shef.ac.uk</a>
+<td> 
+<a href=&quot;mailto:marks@dcs.shef.ac.uk&quot;>marks@dcs.shef.ac.uk</a>
+</tr>
+
+<tr>
+<td> <b>Address 
+<td>
+Rm G28d, Dept of Computer Science (Regent Court, 211 Portobello St)
+<td>
+Rm G27, Dept of Computer Science (Regent Court, 211 Portobello St)
+</table>
+
+<P>
+
+<HR>
+
+<P>
+
+<H3>Timetable</H3>
+
+<P>
+
+<table border=1 cellspacing=0 cellpadding=8>
+<tr valign=top>
+<td width=100> <b> Lectures
+<td width=450> 
+Monday, 12:10, SG-LT02 (Mappin Bldg) <p>
+Thursday, 14:10, SG-LT01 (Mappin Bldg) <p>
+<tr>
+<td width=100> <b> Lab Class
+<td width=450> 
+Thursday, 10:00, Lewin Lab (Regent Court) <P>
+</table>
+
+<H3>Lectures</H3>
+<ul>
+<li><a href=&quot;lecture01.pdf&quot;>Introduction</a> (1 lecture)
+<li><a href=&quot;ir.ppt&quot;>Information Retrieval</a> (4 lectures)
+</ul>
+

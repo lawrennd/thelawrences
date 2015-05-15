@@ -1,0 +1,61 @@
+<head>
+<title>The Lawrence's Home Page</title>
+</head>
+
+<body>
+<div class = "section">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<h1>thelawrences.net</h1> 
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>
+
+<nobr><a href="search.html">Search Site</a></nobr><br><nobr><a href="marta_neil/index.html">Marta and Neil</a></nobr><br><nobr><a href="chloe_sophie/index.html">Chloe and Sophie</a></nobr><br><nobr><a href="nona_fred/index.html">Nona and Fred</a></nobr><br><nobr><a href="~marklaw/index.html">Stacey and Mark</a></nobr>
+</p>
+
+</td><td valign="top" width="24"></td><td valign="top"><h2>Welcome to thelawrences.net</h2>
+
+      <h2>News</h2>
+
+      <h3>New Arrival 5</h3>
+
+      <p>On 16th October 2006 at 19:13 precisely
+      <a href="http://www.thelawrences.net/~neil/cgi-bin/gallery/gallery.cgi?dir=paolo">Paolo Garth Lawrence</a> was born.</p>
+      <h3>Nona Lawrence</h3>
+
+      <p>On 23rd March 2004 Nona Lawrence died from heart 
+      failure in Warwick Hospital. She had been due to return home that day.</p>
+
+      <h3>New Arrival 4</h3>
+
+      <p>On 7th January 2003 at 11:00 am precisely
+      <a href="http://www.thelawrences.net/~neil/cgi-bin/gallery/gallery.cgi?dir=fred">Frederick Antonio Lawrence</a> was born.</p>
+
+      <h3>New Arrival 3</h3>
+
+      <p>On 8th April 2002 Sophie Catherine Lawrence was born.</p>
+
+      <h3>Fred Lawrence </h3>
+
+      <p>Sadly, Fred Lawrence died on 27th December 2001, after spending a 
+      lovely Christmas day with his wife Nona.</p>
+
+      <p>Fred Lawrence's 
+      90th birthday was on the 13th of October, photos
+      <a href="http://www.thelawrences.net/~neil/cgi-bin/gallery/gallery.cgi?dir=granddadsNinetieth">here</a>. </p>
+
+      <h3>New Arrival 2</h3>
+
+      <p>On 1st July 2000 <a href="chloe_sophie/index.html"> Chloe Frances Lawrence</a> was born. There are some
+      pictures here.</p>
+
+      <h3>New Arrival 1</h3>
+
+      <p>On 1st July 2000 their marriage was <a href="http://www.thelawrences.net/~neil/cgi-bin/gallery/gallery.cgi?dir=englishBlessing">blessed
+      in England</a>.</p>
+
+      <p>On 27th May 2000 Marta and Neil got Married.</p>
+
+
+</td></tr></table></div></body>

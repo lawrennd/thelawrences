@@ -1,0 +1,37 @@
+<b>Assessment</b>
+<p>
+      The module is assessed by course work only (no exam). The course work will include a practical assignment (70% of the marks) and a short essay question (30% of the marks).
+<ul>
+      
+<li>      Details of the practical to be announced in week 4.
+
+<li> The essay question will be released in week 9 
+	  </ul>
+
+
+
+
+<b>References</b>
+
+<ul>
+<li> R. Campbell, B. Dodd &amp; D. Burnham (Eds.) (1998). Hearing by Eye II:
+Advances in the Psychology of Speechreading and Auditory-visual Speech.
+Psychology Press Ltd.
+
+<li>Dodd, B. &amp; Campbell, R. (Eds.) (1987). Hearing by Eye: The Psychology
+of Lip-Reading. Lawrence Erlbaum Associates, Hillsdale, NJ.
+<li> Stork, D. G. &amp; Hennecke, M. E. (Eds.) (1996). Speechreading by Humans and Machines: Models, Systems and Applications. Springer-Verlag, New York.
+  <li> Potamianos et al, (2003) <a href="http://researchweb.watson.ibm.com/AVSTG/IEEEPROC03_REVIEW.pdf">"Recent
+Advances in the Automatic Recognition of Audio-Visual Speech"</a>, Proceedings of the IEEE, 91(9)  </li>
+
+</ul>
+
+
+<b>Web Links</b>
+
+<ul>
+<li><a href="http://www.haskins.yale.edu/haskins/heads.html"> Haskins `Talking Heads' Web Site</a> - An excellent overview of much audio-visual speech processing research.
+<li><a href="http://mambo.ucsc.edu/psl/lipr.html"> Speechreading web links</a> - A comprehensive set of links to automatic speechreading research sites.</a>
+<li><a href="http://www.uws.edu.au/marcs/AVISA/AVISA.htm"> AVISA</a> - Homepage of the Auditory-Visual Speech Association.</a>
+</ul>
+
