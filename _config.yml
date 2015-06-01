@@ -3,8 +3,8 @@ title: thelawrences.net
 email: neil@thelawrences.net
 description: > # this means to ignore newlines until "baseurl:"
   Old website for the Lawrence family from the days before Facebook etc.
-baseurl: "/thelawrences" # the subpath of your site, e.g. /blog/
-url: "http://inverseprobability.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thelawrences.github.io" # the base hostname & protocol for your site
 twitter_username: lawrennd
 github_username:  thelawrences
 
