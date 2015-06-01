@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(kdarule.gif);
+	list-image-1: url(kdabull1.gif);
+	list-image-2: url(kdabull2.gif);
+	list-image-3: url(kdabull3.gif);
+	nav-banner-image: url(kdabnr.gif);
+	navbutton-horiz-normal: url(kdahnd.gif);
+	navbutton-horiz-hovered: url(kdahnm.gif);
+	navbutton-horiz-pushed: url(kdahns.gif);
+	navbutton-vert-normal: url(kdavnd.gif);
+	navbutton-vert-hovered: url(kdavnm.gif);
+	navbutton-vert-pushed: url(kdavns.gif);
+	navbutton-home-normal: url(kdahom.gif);
+	navbutton-home-hovered: url(kdahomm.gif);
+	navbutton-home-pushed: url(kdahom.gif);
+	navbutton-next-normal: url(kdanex.gif);
+	navbutton-next-hovered: url(kdanexm.gif);
+	navbutton-next-pushed: url(kdanex.gif);
+	navbutton-prev-normal: url(kdapre.gif);
+	navbutton-prev-hovered: url(kdaprem.gif);
+	navbutton-prev-pushed: url(kdapre.gif);
+	navbutton-up-normal: url(kdaup.gif);
+	navbutton-up-hovered: url(kdaupm.gif);
+	navbutton-up-pushed: url(kdaup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(255, 255, 204);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(kdabull1.gif);
+}
+ul ul
+{
+	list-style-image: url(kdabull2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(kdabull3.gif);
+}
