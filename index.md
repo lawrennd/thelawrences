@@ -1,6 +1,5 @@
---- 
+---
 layout: default
-title: "The Lawrence's Home Page"
 ---
 
 Welcome to thelawrences.net

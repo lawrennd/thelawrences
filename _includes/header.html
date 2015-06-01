@@ -1,113 +1,27 @@
-<head>
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="author" content="">
+<header class="site-header">
 
+  <div class="wrapper">
 
-</head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
 
-<table border="0" cellpadding="0" cellspacing="0" align="right">
-<tr>
-<td><!--***************************************************************************************-->
-<A onmouseover="window.status&#13;&#10;='Homepage';
- return true"
- onmouseout ="window.status=''; return true" href="/" >
-The Lawrence's homepage</A>&nbsp;&nbsp;<font color="#660099">|</font>&nbsp;&nbsp; <!--***************************************************************************************-->
+      <div class="trigger">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
 
-</td>
+  </div>
 
-<td><!--***************************************************************************************-->
-<A onmouseover="window.status&#13;&#10;='Neil's Page';
- return true"
- onmouseout ="window.status=''; return true" href="/~neil" >
-Neil's Page</A>&nbsp;&nbsp;<font color="#660099">|</font>&nbsp;&nbsp; <!--***************************************************************************************-->
-</td>
-
-
-<td><!--***************************************************************************************-->
-<A onmouseover="window.status&#13;&#10;='Photos'; return true"
- onmouseout ="window.status=''; return true" href="/~neil/cgi-bin/images/imageIndex.cgi" >
-Photos</A>&nbsp;&nbsp;<font color="#660099">|</font>&nbsp;&nbsp; <!--***************************************************************************************-->
-</td>
-
-</tr>
-</table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="436">
-
-<tr>
-<td width="47" valign="top"><!--***************************************************************************************-->&nbsp; 
-<!--***************************************************************************************-->
-</td>
-<td><!--***************************************************************************************-->
-<!--<a href="http://www.manchester.ac.uk/"
- onMouseOver 
-="window.status='image1'; return true"
- onMouseOut="window.status=''; return true" 
-      align="right" valign  ="top" 
-     ; <P 
-     ><IMG alt="University Logo" title="Manchester Est. 1824" src="http://www.cs.manchester.ac.uk/ai/pictures/icons/est1824.gif"> -->
-
-<!--***************************************************************************************-->
-</td></tr></table></body>
-<head>
-   <link href="http://intranet.cs.man.ac.uk/css/_print.css"
-    type="text/css" rel="stylesheet" media="print" />
-
-    <link href="http://intranet.cs.man.ac.uk/css/_base.css"
-    type="text/css" rel="stylesheet" media="screen" />
-    <style type="text/css" media="screen">
-    /*<![CDATA[*/
-    <!--
-    @import url(http://intranet.cs.man.ac.uk/css/_layout.css);
-    @import url(http://intranet.cs.man.ac.uk/css/_navigation.css);
-    @import url(http://intranet.cs.man.ac.uk/css/_forms.css);
-    @import url(http://intranet.cs.man.ac.uk/css/_boxes.css);
-    -->
-    /*]]>*/
-
-    .currentsection  {
-	 background-color: #f0f0ff; 
-	 color:#000;
-	 display: block; 
-	 font-weight:normal;
-	 padding: 4px 4px 5px 4px;
-	 text-decoration:none; 
-    }
-    .multilevel-linkdiv-0 {
-	 background-color: #f0f0ff; 
-	 margin-left: 1.0em;
-         text-align: left
-    }
-    a.greylink:link    { color: #c0c0c0; }
-    a.greylink:visited { color: #d0d0d0; }
-		
-    .lined {
-	 border-style: solid;
-	 border-color: #006073;
-	 border-bottom-width: 0px;
-	 border-top-width: 1px;
-	 border-left-width: 0px;
-	 border-right-width: 0px;
-    }
-    table, caption {
-      font-size: inherit;
-      font-weight: inherit;
-      font-style: inherit;
-      font-variant: inherit;
-    }
-    </style>
-
-    <style type="text/css" media="screen">
-    /*<![CDATA[*/
-    <!--
-    .section {margin-left: 4em}
-    body { background-image: url(http://www.thelawrences.net/images/logoleft.gif); }
-    div.locator { background-color: #6666cc; background-image: url(); background-repeat: no-repeat; border: none; margin: 1px 0 0 0; padding: 0; width: 184px; height: 92px; }
-    -->
-    /*]]>*/
-    </style>
-<!--  End of Style Sheet CSS -->
-</head>
+</header>
