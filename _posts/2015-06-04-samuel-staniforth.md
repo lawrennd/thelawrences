@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Samuel Staniforth"
-date:   2015-05-03 
+date:   2015-06-04 
 categories: 
 - Sheffield 
 - Staniforth 
@@ -14,7 +14,7 @@ When I write cutlery, if you're not from Sheffield, don't think of cutlery, thin
 
 The cutlery trade was the mainstay of Sheffield industry for over 200 years, dating back to the mid 18th century. Sheffield is a steel city, and the main reason for steel used to be blades.
 
-Our house was build in around 1867 by a publican, and perhaps local entrepenuer,  called Benjamin Beeley, but he was already old when it was complete and he died in 1869 at the age of 70. It was bought by Samuel Staniforth, a young (less than 30 years old) forger of knife blades. Staniforth founded a firm in 1864, after some initial troubles he became an extremel succesful local manufacturer of forged blades.
+Our house was build in around 1867 by a publican, and perhaps local entrepenuer,  called Benjamin Beeley, but he was already sixty eight years old when it was complete and he died in 1869 at the age of 70. It was bought by Samuel Staniforth, a young and innovative forger of knife blades. Staniforth founded a firm in 1864, after some initial troubles he became an extremel succesful local manufacturer.
 
 ![](staniforth905.jpg)
 
