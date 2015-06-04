@@ -26,4 +26,4 @@ There's a [profile of Chris](https://magazine.fighttimes.com/samuel-staniforth-l
 
 It was a great pleasure to visit the firm, it's impressive how many custom knives they make, and yet they were also delivering orders of to major firms and catering colleges. 
 
-For Marta's anniversary present Chris and the team at Staniforth are making us a 9 block set with rosewood handles. Each blad will be hand made: hand ground and hand polished. The tools and ideas are modern, but the trade is the same that Samuel Staniforth new 150 years ago.
+For Marta's anniversary present Chris and the team at Staniforth are making us a set of nine knives with rosewood handles. Each blade is hand made to order: hand ground and hand polished. The tools and ideas are modern, but the trade is the same that Samuel Staniforth knew 150 years ago.
