@@ -16,7 +16,7 @@ The cutlery trade was the mainstay of Sheffield industry for over 200 years, dat
 
 Our house was build in around 1867 by a publican, and perhaps local entrepenuer,  called Benjamin Beeley, but he was already sixty eight years old when it was complete and he died in 1869 at the age of 70. It was bought by Samuel Staniforth, a young and innovative forger of knife blades. Staniforth founded a firm in 1864, after some initial troubles he became an extremel succesful local manufacturer.
 
-![](../assets/staniforth905.jpg)
+![]({{ site.url }}/assets/staniforth905.jpg)
 
 He died in 1910, having retired some ten or twenty years earlier. And we bought our house in 2001 (between us it was owned by only two families, the Ormes who ran the local Grocers and the Kingslands).
 
