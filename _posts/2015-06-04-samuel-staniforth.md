@@ -18,7 +18,7 @@ Our house was build in around 1867 by a publican, and perhaps local entrepenuer,
 
 ![]({{ site.url }}/assets/staniforth905.jpg)
 
-He died in 1910, having retired some ten or twenty years earlier. And we bought our house in 2001 (between us it was owned by only two families, the Ormes who ran the local Grocers and the Kingslands).
+He died in 1910, having retired some ten or twenty years earlier. And we bought our house in 2001 (between ourselves and Samuel Staniforth it was owned by only two families: the Ormes who ran the local Grocers and the Kingslands).
 
 Every so often I do a little search to try and find out more about Samuel Staniforth. Recently I found that [his firm is still going](http://www.s-staniforth.co.uk). It is now owned by Chris Hopkinson, and has moved from its central location in Sheffield to Halfway, a town halfway between Sheffield and Rotherham. It has also moved from making the forged blanks to making a range of quality catering and custom made knives. You can see reviews of their knives [here](http://survivalcache.com/survival-gear-review-parry-blade-survival-knife/). The Staniforth range is still their catering range, but they make a range of military and hunting knives under the ["Scorpion Kives" brand](http://www.scorpionknives.com/).
 
