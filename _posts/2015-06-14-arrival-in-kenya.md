@@ -11,9 +11,9 @@ title: Arrival in Nyeri
 
 I slept in fits, but awoke as we crossed a river piercing the sparse jungle around us, with the air filled with swifts. They aren't quite the same as we have in the UK, Mike remarked that their shrieks were slightly different, and that our swifts fly to West Africa.
 
-The other favourite view I had was a small boy, probably about 6 or 7, riding a full size Raleigh Roadster-style bicycle. He couldn't get over the cross bar so he rode it at an angle with one foot threaded through under the cross bar to access the pedal on the other side. As we passed his sandal fell off and I suppose he had to stop, but he'd been heading up a gradual bank at quite a pace.
+The other favourite view I had was a small boy, probably about 6 or 7, riding a full size Raleigh Roadster-style bicycle. With two cross bars. He couldn't get over the cross bars, so he rode it at an angle with one foot threaded through under the lower cross bar to access the pedal on the other side. As we passed his sandal fell off and I suppose he had to stop, but he'd been heading up a gradual bank at quite a pace.
 
-The other thing that struck me was the amount of cow herding in comparison to Uganda. If felt like there was more. Each group of cows guided by a thin stick. Many other boys and young men were also carrying sticks in the manner of a cowherd. It looks like a proud local tradition.
+The other thing that struck me was the amount of cow herding in comparison to Uganda. If felt like there was more. Each group of cows guided by a thin stick. Many other boys and young men were also carrying sticks in the manner of a cowherd. It looks like a proud local vocation.
 
 We are staying in the guest house, which is the old colonial farm house that managed the land where the DeKUT campus is. It was sold in the 1970s, and the decor is reminiscient of those years, it reminds me of staying with my gran a little.
 
