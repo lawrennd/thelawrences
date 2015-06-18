@@ -1,13 +1,12 @@
-Sami met us out of the airport and drove us from Nairobi to Nyeri. The roads here are better than Uganda's at first looks, good road (not painted) for most of the way. The van was limited to 80 km/h, but Sami kept pushing at the limit which caused the van to beep and surge.
-
-The police will fine up to 10,000 shilling for overriding the governor, but Sami said that some still do it, with a switch in a hidden place. But there's even an electronic logger inside the van, and if the police have the right USB device they can download your history and see where you've transgressed. An updated version of the tachograph. Another example of being able to skip a generation of technology and deploy something more advanced.
-
-We stopped for a 'biological standing', a euphemism for urination, at a Total garage about 2/3 of the way through. We'd picked up John about 30 minutes from the airport from a swanky hotel with a welcoming guard.
-
 ---
 layout: post
 title: Arrival in Nyeri
 ---
+Sami met us out of the airport and drove us from Nairobi to Nyeri. The roads here are better than Uganda's at first looks, good road (not painted) for most of the way. The van was limited to 80 km/h, but Sami kept pushing at the limit which caused the van to beep and surge.
+
+The police will fine up to 10,000 shilling (about $100) for overriding the governor, but Sami said that some still do it, with a switch in a hidden place. But there's even an electronic logger inside the van, and if the police have the right USB device they can download your history and see where you've transgressed. An updated version of the tachograph. Another example of being able to skip a generation of technology and deploy something more advanced.
+
+We stopped for a 'biological standing', a euphemism for urination, at a Total garage about 2/3 of the way through. We'd picked up John about 30 minutes from the airport from a swanky hotel with a welcoming guard.
 
 I slept in fits, but awoke as we crossed a river piercing the sparse jungle around us, with the air filled with swifts. They aren't quite the same as we have in the UK, Mike remarked that their shrieks were slightly different, and that our swifts fly to West Africa.
 
