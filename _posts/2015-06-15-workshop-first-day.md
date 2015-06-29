@@ -19,6 +19,9 @@ Ciira has organized banners and t-shirts. There is one across the front of the U
 
 There are a lot of students, up to 100 expressed interest, and in the class we vary around 80. I'm writing this now as John explains classification by k-nearest neighbours. The students are quite initially when asked to make suggestions, but once someone is willing to break the silence the questions flow.
 
+![](./images/2015_06_15_123410.JPG)
+*students attending the school*
+
 Before we started the sessions we were welcomed by the Vice Chancellor and the Deputy Vice Chancellor. I got a chance to have a few words with the Vice Chancellor whilst we were being introduced. It must have been a tremendous journey to take the University from college status to fully chartered. The University is in an excellent position, it is close enough to Nairobi to mean that the journey (3 hours) is not prohibitive. Yet, we are in a slightly more rural area. Nyeri is a colonial town. It is the town where Princess Elizabeth became queen when her father died, she was on safari here.
 
 There are challenges, Ciira is Department Chair for Electrical Engineering and his department has 7 faculty and 500 students. But there is also a willingness to embrace new ideas and move the institution forward. The minister in charge of ICT visited recently, and has backed the workshop. Many researchers will make their way out of Nairobi towards the end of the week, along with members of the UN Global Pulse lab.
@@ -39,7 +42,10 @@ This workshop is about the basic toolsets, but those basic tools can be turned t
 
 ## Lab Session
 
-The lab session went very well, thanks to the efforts of [Mike Smith](http://air.ug/~jquinn/) and [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html). The internet was pretty slow, so getting people up and running involved a lot of innovative thinking. Mike Smith excels in this area, and soon had a local sever running plus a system of distribution using memory sticks. 
+The lab session went very well, thanks to the efforts of [Mike Smith](http://air.ug/~jquinn/) and [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html). The internet was pretty slow, so getting people up and running involved a lot of innovative thinking. Mike Smith excels in this area, and soon had a local sever running plus a system of distribution using memory sticks.
+
+![](./images/2015_06_15_140417.JPG)
+*Mike Smith explaining the lab session*
 
 Julius Adebayor had also arrived, so after the lab session had finished we headed in to town for a couple of beers to celebrate a succesful first day. It had gone very well, although the key as always was adaptability. I probably only covered about half the material I'd originally planned for, but I covered an enormous amount of ground that I hadn't thought about! The most important thing is to react to the audience, and see where they are. In the end, the presentation I gave was a much better one than I'd planned, and it was really the students that brought that out of me, with questions that often went right to the core of what data science is and what they might be able to get out of it.
 
