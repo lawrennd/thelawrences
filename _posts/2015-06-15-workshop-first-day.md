@@ -28,7 +28,7 @@ There are challenges, Ciira is Department Chair for Electrical Engineering and h
 
 ## What is Data Science?
 
-![](/assets/neil_presenting.jpg)
+![](/assets/neil_presenting.JPG)
 
 For the first session I focussed on the background to machine learning, putting it in the wider context of modelling and prediction. A key thing is to get good interaction with the audience. Different cultures seem to react in different ways to this. Students were quiet at first but after some time there were lots of good questions mainly about the context of data science, where machine learning fits in, how it relates to other fields like statistics, predictive analytics, AI, data mining. It was a lot of fun to try and answer these questions, although I tried to emphasize that I was giving my own perspective. I was asked about whether there was a good book about what data science was (and also how it relates to data analytics). One reason it's an interesting field is that currently there is *no* "canonical" definition of what a data scientist needs to know, and what their role will be. It feels early for a definitive text. That's part of what we were doing with the workshop and conference was working to help define that term. The talk in the end covered much broader ground than I'd intended, but this was totally appropriate.
 
