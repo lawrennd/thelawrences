@@ -7,6 +7,9 @@ tags:
 - Data Science 
 ---
 
+![](/assets/2015_06_16_031905.JPG)
+*The mountain is out. The 5000 meter Mt Kenya in the Distance*
+
 [John Quinn](http://air.ug/~jquinn/) has been working for nearly a decade at Makerere University in Kampala, Uganda. He's been bringing imagination and ingenuity to a range of challenges. Today the workshop get's serious because he brings his experience of tackling these challenges to the school.
 
 John has a patient style of presentation that brings a great deal of clarity to the material. He builds up the methods slowly, encouraging the students to design them as the lecture progresses. It was a great pleasure to watch. Learning in this way surely leads to fundamental understandings that won't be lost and will likely inspire some of these students to make some serious contributions in this domain.
