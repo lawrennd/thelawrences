@@ -11,7 +11,7 @@ This is a good approach. There is no hiding it. The task is big. But I know that
 
 ## Dedan Kimathi
 
-A bit of background on Dedan Kimathi University. We are in Nyeri, about 150 kilometers from Nairobi. To the West is Mount Kenya, it is 100 kilometers away, and in the haze it is cloud like. It must be an extraordinary sight on a clear day.
+A bit of background on Dedan Kimathi University. We are in Nyeri, about 150 kilometers from Nairobi. To the east is Mount Kenya, it is 100 kilometers away, and in the haze it is cloud like. It must be an extraordinary sight on a clear day.
 
 The University is new, it was until 2012 a technical college and then a college as part of a larger University. It now has its charter. There are about 5000 students and the campus is on the site of a colonial coffee plantation. The guest house, where the speakers are staying, is the farm house.
 
