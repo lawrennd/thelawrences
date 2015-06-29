@@ -9,7 +9,7 @@ Sami met us out of the airport and drove us from Nairobi to Nyeri. The roads her
 
 The police will fine up to 10,000 shilling (about $100) for overriding the governor, but Sami said that some still do it, with a switch in a hidden place. But there's even an electronic logger inside the van, and if the police have the right USB device they can download your history and see where you've transgressed. An updated version of the tachograph. Another example of being able to skip a generation of technology and deploy something more advanced.
 
-We stopped for a 'biological standing', a euphemism for urination, at a Total garage about 2/3 of the way through. We'd picked up John about 30 minutes from the airport from a swanky hotel with a welcoming guard.
+We stopped for a 'biological standing', Sami's euphemism for urination, at a Total garage about 2/3 of the way through. We'd picked up John about 30 minutes from the airport from a swanky hotel with a welcoming guard.
 
 ![](./assets/2015_06_14_152827.JPG)
 *The University's Matatu waiting at the Biological Standing*
