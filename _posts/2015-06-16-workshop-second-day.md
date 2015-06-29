@@ -1,6 +1,10 @@
 ---
-layout: posts
+layout: post
 title: Second Day of Data Science in Africa
+date:   2015-06-16 
+tags: 
+- Kenya 
+- Data Science 
 ---
 
 [John Quinn](http://air.ug/~jquinn/) has been working for nearly a decade at Makerere University in Kampala, Uganda. He's been bringing imagination and ingenuity to a range of challenges. Today the workshop get's serious because he brings his experience of tackling these challenges to the school.
@@ -25,6 +29,6 @@ At some point Ciira and I retired to the coffee room to discuss progress, resear
 
 ## Rebellion and Conservancy
 
-We also talked of Dedan Kimathi and the Mao Mao rebellion. How important the forest was to the rebels, and how through a combination of factors this local portion (over 100 acres which is part of the DeKUT campus) was preserved. Kimathi was captured and killed by the British. There were many concentration camps locally and prisoners were tortured. Although both David and Ciira were too polite to bring this up. In the campus there is a Hero's garden, David said when they evenutally find where he is buried, they will place a plaque on one of the stones there.
+We also talked of Dedan Kimathi and the Mau Mau rebellion. How important the forest was to the rebels, and how through a combination of factors this local portion (over 100 acres which is part of the DeKUT campus) was preserved. Kimathi was captured and killed by the British. There were many concentration camps locally and prisoners were tortured. Although both David and Ciira were too polite to bring this up. In the campus there is a Hero's garden, David said when they evenutally find where he is buried, they will place a plaque on one of the stones there.
 
 Later we were joined by John and Mike we were able to have a more ranging discussion on collaborations (while Andreas got on with his slides). We talked about the role of the UN Pulse Lab and the wider perspective for Data Science in Africa. A couple of collaborations with strong potential between John and Ciira also emerged. 

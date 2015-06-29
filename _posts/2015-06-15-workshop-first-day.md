@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: First Day of Data Science in Africa
 ---
 
